@@ -33,8 +33,8 @@ System Requirements:
 
 Requirements:
 
-* [Packer](https://www.packer.io/intro/getting-started/install.html) version 1.9.1
-* [Vagrant](https://www.vagrantup.com/docs/installation/) version 2.3.7
+* [Packer](https://www.packer.io/intro/getting-started/install.html) **version 1.9.1**
+* [Vagrant](https://www.vagrantup.com/docs/installation/) **version 2.3.7**
 * [Vagrant Reload Plugin](https://github.com/aidanns/vagrant-reload#installation)
 * [VirtualBox](https://www.virtualbox.org/wiki/Downloads), libvirt/qemu-kvm, or vmware (paid license required), or parallels (paid license required)
 * Internet connection
